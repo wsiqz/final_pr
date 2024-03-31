@@ -37,7 +37,7 @@
 :arrow_up:[к оглавлению](https://github.com/wsiqz/final_pr/tree/main/project%200#Оглавление)
 
 
-### Результаты:  
+### Результат  
 Программа находит загаданное число в среднем за 5 попыток
 
 :arrow_up:[к оглавлению](https://github.com/wsiqz/final_pr/tree/main/project%200#Оглавление)
